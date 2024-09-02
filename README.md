@@ -1,6 +1,9 @@
 # InformationGathering
 Information Gathering Techiques
 
+DEVELOPED BY : SHEHAN SHAJAHAN
+REGISTER NO. : 212223240154
+
 # To perform information gathering techniques
 
 # AIM:
