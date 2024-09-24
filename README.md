@@ -1,4 +1,4 @@
-# InformationGathering
+# Information Gathering
 Information Gathering Techiques
 
 ```
