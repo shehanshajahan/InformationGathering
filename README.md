@@ -28,53 +28,38 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 
-### WHOIS-
-![image](https://github.com/user-attachments/assets/dc19753f-af3a-4ce5-b726-f67bb586dc9c)
+### WhoIs.org
+![Screenshot 2024-09-23 153226](https://github.com/user-attachments/assets/bfe0a817-d8d3-4f9c-9944-002796dc9989)
 
+ ### ping command
+ ![Screenshot 2024-09-23 152253](https://github.com/user-attachments/assets/19644991-bdc6-4974-994d-6c7a8b39cde4)
 
-### IP2LOCATION-
-![image](https://github.com/user-attachments/assets/a9d64ec2-0508-4c96-a049-788a0d008db6)
+### iplocation
+![Screenshot 2024-09-23 153005](https://github.com/user-attachments/assets/3698f823-fdbd-4ce7-a907-4d61d9db2cd2)
 
+### web.archive.org
+![Screenshot 2024-09-23 153226](https://github.com/user-attachments/assets/9972c5f9-261f-4537-aa6f-a9edf1c99984)
 
-### WEB ARCHIVE-
-![image](https://github.com/user-attachments/assets/5ff217c9-39e6-44e2-8a24-d5ba7cd76a29)
+### netcat
+![Screenshot 2024-09-24 223716](https://github.com/user-attachments/assets/3877fb6f-a9d7-4599-8ca2-d495f1e06c45)
 
+### nmap
+![exp3_5](https://github.com/user-attachments/assets/f4ca675e-41e6-47fd-a42c-d94b34abcc5f)
 
-## WEBSERVER FINGERPRINTING:
+### whatweb
+![exp3_6](https://github.com/user-attachments/assets/1ce1a81d-1150-428e-aefd-7e15e4f7c643)
 
-### NMAP-
-![image](https://github.com/user-attachments/assets/c10aed66-7447-4f29-a00c-8dab7e8e5e46)
+### httprint
+![exp3_7](https://github.com/user-attachments/assets/c268a1d0-b57c-4447-8628-a391a5f8377f)
 
+### TCP traceroute
+![exp3_8](https://github.com/user-attachments/assets/6491dc90-9150-4774-a97c-b17220a81283)
 
-### NETCAT-
-![image](https://github.com/user-attachments/assets/65d4c5fe-2dde-4b08-a909-97df8bbc235b)
+### UDP traceroute
+![exp3_9](https://github.com/user-attachments/assets/ddcfafc7-5e98-4853-bd0a-01fa6976741b)
 
-
-### WHATWEB-
-![image](https://github.com/user-attachments/assets/efde9b3d-a3be-4ae0-9198-22cb6e80dd65)
-![image](https://github.com/user-attachments/assets/2a7135be-5d57-443d-b2fe-e73eb5690331)
-
-
-### HTTPRINT-
-
-![image](https://github.com/user-attachments/assets/2f7d0e99-651c-4ef9-8482-e5fe08e4e758)
-
-
-
-### PING-
-![image](https://github.com/user-attachments/assets/a161a97e-9d8b-4283-b1b8-f1763f2882e1)
-
-
-### ICMP TRACEROUTE-
-![image](https://github.com/user-attachments/assets/bddc568b-91bf-470e-b841-fa4328473c36)
-
-
-### TCP TRACEROUTE-
-![image](https://github.com/user-attachments/assets/909e7abc-af64-44d5-8b34-f60b9c1158ae)
-
-
-### UDP TRACEROUTE-
-![image](https://github.com/user-attachments/assets/b0839827-70eb-4cf7-9e79-64a94d6200aa)
+### ICMP traceroute
+![exp3_10](https://github.com/user-attachments/assets/eaa122dd-b3c6-41c2-a3e1-959f8d3d361c)
 
 
 ## RESULT:
